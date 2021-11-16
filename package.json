@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "aws-sdk": ">= 2.0.9",
+        "aws-sdk": ">= 2.814.0",
         "chalk": "^2.4.2",
         "clear": "^0.1.0",
         "figlet": "^1.2.4",
